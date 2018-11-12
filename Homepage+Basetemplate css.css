@@ -22,3 +22,13 @@ body{
     margin-left: 50px !important;
     margin-right: 50px !important;
 }
+
+.responsive{
+  width: 100%;
+  height: auto;
+  max-width: 400px;
+}
+
+.card-body{
+  background-color: #e3f2fd !important;
+}
