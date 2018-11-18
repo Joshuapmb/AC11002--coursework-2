@@ -32,3 +32,8 @@ body{
 .card-body{
   background-color: #e3f2fd !important;
 }
+
+.card{
+  border:none !important;
+  background-color: #e3f2fd !important;
+}
