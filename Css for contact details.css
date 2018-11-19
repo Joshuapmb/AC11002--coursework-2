@@ -1,6 +1,6 @@
 /**
   The code below will ensure that the link in the page still have the standard colour and format as the rest of the writing. Otherwise the links disappear into the background colour.
 */
-a {
+a.contact {
   color: #e3f2fd !important;
 }
