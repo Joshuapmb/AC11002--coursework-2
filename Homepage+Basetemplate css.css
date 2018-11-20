@@ -46,3 +46,8 @@ body {
 .text-primary{
   font-family: 'Rajdhani', sans-serif;
 }
+
+.dropdown-item{
+  color: #007bff !important;
+  
+}
