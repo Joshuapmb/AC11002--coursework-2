@@ -1,3 +1,6 @@
+/**
+Sets sections 2 to have a darker blue background. This overwrites the basic colouring, so that the 'my career' section has contrast to show it's not a project.
+*/
 #section2 {
   padding-right: 10px;
   padding-left: 10px;
@@ -5,18 +8,30 @@
   background-color: #007bff !important;
 }
 
+/**
+Sets the colour of writing for text inside the project cards.
+*/
 #section3 {
   color: #007bff !important;
 }
 
-.card-img-top{
-  padding-top: 0px !important;
-}
-
-.mycareertitle{
+/**
+Underlines the my career title.
+*/
+.mycareertitle {
   text-decoration: underline !important;
 }
 
-.card-title{
+/**
+Underlines the project titles.
+*/
+.card-title {
   text-decoration: underline !important;
+}
+
+/**
+This will set the card background colour to the lighter blue, to add contrast.
+*/
+.card-body {
+  background-color: #e3f2fd !important;
 }
