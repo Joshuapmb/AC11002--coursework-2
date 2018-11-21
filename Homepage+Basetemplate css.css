@@ -3,7 +3,7 @@
 }
 
 #section2 {
-  font-size: 15px color:white !important;
+  font-size: 15px;
   background-color: #007bff !important;
   color: #e3f2fd !important;
   padding-left: 5px;
@@ -49,5 +49,5 @@ body {
 
 .dropdown-item{
   color: #007bff !important;
-  
+
 }
