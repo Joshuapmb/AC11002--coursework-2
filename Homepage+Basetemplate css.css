@@ -30,7 +30,8 @@ body {
 }
 
 .card-body {
-  background-color: #e3f2fd !important;
+  background-color: #007BFF !important;
+  border-radius: 5px;
 }
 
 .card {
@@ -38,16 +39,14 @@ body {
   background-color: #e3f2fd !important;
 }
 
-.card-img-top{
-  padding-top: 18px;
+.card-img-top {
   border-radius: 5px;
 }
 
-.text-primary{
+.text-primary {
   font-family: 'Rajdhani', sans-serif;
 }
 
-.dropdown-item{
+.dropdown-item {
   color: #007bff !important;
-
 }

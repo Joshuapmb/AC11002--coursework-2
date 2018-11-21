@@ -9,14 +9,18 @@
   color: #007bff !important;
 }
 
-.card-img-top{
+.card-img-top {
   padding-top: 0px !important;
 }
 
-.mycareertitle{
+.mycareertitle {
   text-decoration: underline !important;
 }
 
-.card-title{
+.card-title {
   text-decoration: underline !important;
+}
+
+.card-body {
+  background-color: #e3f2fd !important;
 }
