@@ -45,6 +45,7 @@ body {
 
 .text-primary {
   font-family: 'Rajdhani', sans-serif;
+  font-weight: bold;
 }
 
 .dropdown-item {
