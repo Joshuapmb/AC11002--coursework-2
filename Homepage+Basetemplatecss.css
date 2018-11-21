@@ -76,8 +76,8 @@ Standardises the title fonts and size/boldness.
 .text-primary {
   font-family: 'Rajdhani', sans-serif;
   font-weight: bold;
+  font-size: 22px;
 }
-
 /**
 This will set the colour of font for the dropdown menu items.
 */
