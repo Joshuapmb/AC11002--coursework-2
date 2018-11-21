@@ -1,12 +1,21 @@
+/**
+This will set the colour of the card background to the lighter blue.
+*/
 .card-deck {
   background-color: #e3f2fd !important;
 }
 
+/**
+This will set the colour of the card background to the darker blue, and will add to the contrast in the card colours.
+*/
 .card-body {
   background-color: #007BFF !important;
   border-radius: 5px;
 }
 
+/**
+Curves the image corners.
+*/
 .card-img-top {
   border-radius: 5px;
 }

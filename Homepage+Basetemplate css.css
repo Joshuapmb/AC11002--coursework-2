@@ -1,7 +1,17 @@
+/**
+This css page is linked to all by pages and acts as a general template for all pages as well as a specific css document for the landing page, it is a use of atomic design.
+*/
+
+/**
+This equally spaces out the navbar from the rest of the page.
+*/
 #section1 {
   padding-top: 16px;
 }
 
+/**
+This is for the main body of text, I can just start section 2 and surround the body of text and it will take a standardised form.
+*/
 #section2 {
   font-size: 15px;
   background-color: #007bff !important;
@@ -11,43 +21,67 @@
   border-radius: 5px;
 }
 
+/**
+All titles will have a standard size
+*/
 h5 {
   font-size: 20px;
   text-decoration: underline;
   background-color: #007bff !important;
 }
 
+/**
+This sets the margins at either side of the page, and will set a standard background colour.
+*/
 body {
   background-color: #e3f2fd !important;
   margin-left: 50px !important;
   margin-right: 50px !important;
 }
 
+/**
+This responsize class (for images) will have a standard size.
+*/
 .responsive {
   width: 100%;
   height: auto;
   max-width: 400px;
 }
 
+/**
+This adds contrast from the background and the main text, part of CRAP design.
+*/
 .card-body {
   background-color: #007BFF !important;
   border-radius: 5px;
 }
 
+/**
+This adds contrast from the background and the main text, part of CRAP design.
+*/
 .card {
   border: none !important;
   background-color: #e3f2fd !important;
 }
 
+/**
+Curves the corners of images.
+*/
 .card-img-top {
   border-radius: 5px;
 }
 
+/**
+Standardises the title fonts and size/boldness.
+*/
 .text-primary {
   font-family: 'Rajdhani', sans-serif;
   font-weight: bold;
 }
 
+/**
+This will set the colour of font for the dropdown menu items.
+*/
 .dropdown-item {
   color: #007bff !important;
 }
